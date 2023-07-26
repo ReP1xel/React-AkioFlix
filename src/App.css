@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+.header-background{
+  background-color: black !important;
+  height: 68px !important;
+}
+
+.header-text{
+  color: white !important;
+  font-size: 15px !important;
+  font-family: sans-serif !important;
+  padding: 0px !important;
+  margin: 10px !important;
+}
+
+.header-text:hover{
+  color: grey !important;
+}
+
+.hover-button{
+  color: white !important;
+}
+
+.menu1{
+  margin: 0px !important;
+}
+
+.hover-button:hover .menu1{
+  display: block !important;
+}
+
+.menu2 {
+  left: -120px !important;
+}
+
+.hover-button2:hover .menu2 {
+  display: block !important;
+}
+
+.item{
+  background-color: black !important;
+}
+
+.search{
+  color: white !important;
+}
+
+.right.menu{
+  margin-left: 5px;
+}
+
+.right-important{
+  margin-left: auto !important;
+}
